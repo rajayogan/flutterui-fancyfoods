@@ -1,16 +1,12 @@
-# fancyfood
+# Fancy foods
 
-A new Flutter project.
+Fancy design screens created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6263296-Afternoon-tea-takeaway-app/attachments/1341771
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/1lmOHdBkrJI
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190402-213544](https://user-images.githubusercontent.com/8137504/55418413-3c7d3180-5590-11e9-88c6-e3b4b2950d1f.png)
+![Screenshot_20190402-213548](https://user-images.githubusercontent.com/8137504/55418414-3c7d3180-5590-11e9-8a1c-3b018098023e.png)
